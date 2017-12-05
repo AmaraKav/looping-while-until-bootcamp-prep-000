@@ -4,5 +4,3 @@ def using_while
 		puts"Blah"
 		levitation_force += 1
 end
-
-
